@@ -12,7 +12,7 @@ The SQL scripts focus on **data management, aggregation, and insights** for a ty
 ![Bank Dataset Analysis Screenshot](https://github.com/Jayesh-dev-glitch/Bank-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20125126%20-%20Copy.png)
 
 ## Screenshot 2
-![Bank Dataset Analysis Screenshot 1](https://github.com/Jayesh-dev-glitch/Bank-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20125126%20-%20Copy.png)
+![Bank Dataset Analysis Screenshot 2](https://github.com/Jayesh-dev-glitch/Bank-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20125158.png)
 
 ## **Key Features**
 
