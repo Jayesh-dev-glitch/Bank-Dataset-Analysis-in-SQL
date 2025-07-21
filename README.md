@@ -14,7 +14,7 @@ The SQL scripts focus on **data management, aggregation, and insights** for a ty
 ## Interest Rates
 ![Bank Dataset Analysis Screenshot 2](https://github.com/Jayesh-dev-glitch/Bank-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20125158.png)
 
-## Screenshot 3
+## Customer Details With Account
 ![Bank Dataset Analysis Screenshot 3](https://github.com/Jayesh-dev-glitch/Bank-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20125213.png)
 
 ## Screenshot 4
