@@ -7,7 +7,7 @@ This project demonstrates the design and analysis of a banking database (`mybank
 The SQL scripts focus on **data management, aggregation, and insights** for a typical banking system.
 
 ---
-
+## **Project Screenshot**
 ## Screenshot
 ![Bank Dataset Analysis Screenshot](https://github.com/Jayesh-dev-glitch/Bank-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20125126%20-%20Copy.png)
 
